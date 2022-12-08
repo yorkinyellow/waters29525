@@ -1,0 +1,14 @@
+{
+  "name": "waters29525",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "hihuay Pantip เว็บไซต์ที่มีความน่าเชื่อถือ [Play168] ⭐ hihuay เว็บเดิมพันที่เล่นเกมพนันออนไลน์ ได้ครบวงจร บริการฟรี",
+  "keywords": [
+    "hihuay Pantip เว็บไซต์ที่มีความน่าเชื่อถือ [Play168] ⭐ hihuay เว็บเดิมพันที่เล่นเกมพนันออนไลน์ ได้ครบวงจร บริการฟรี"
+  ],
+  "repository": "https://github.com/yorkinyellow/waters29525",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
